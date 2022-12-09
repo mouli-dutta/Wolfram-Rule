@@ -1,4 +1,5 @@
 # Wolfram's MathWorld Cellular Automata Rule 
+## For more information [Click Here](https://mathworld.wolfram.com/Rule30.html#:~:text=Rule%2030%20is%20one%20of%20the%20elementary%20cellular,rule%20outcomes%20are%20encoded%20in%20the%20binary%20representation.)
 
 <pre>
 Rule 30
